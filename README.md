@@ -1,2 +1,2 @@
-# html-portfolio
-HTML capstone 1
+# Omni Yao- portfolio
+aspiring full stack developer
